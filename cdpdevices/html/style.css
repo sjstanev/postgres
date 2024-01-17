@@ -1,0 +1,6 @@
+@import url(typography.css);
+
+.site{
+    max-width: 66ch;
+    margin: 0 auto;
+}
