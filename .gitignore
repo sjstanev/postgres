@@ -1,2 +1,3 @@
 database.ini
+.vscode/
 psql_venv/
